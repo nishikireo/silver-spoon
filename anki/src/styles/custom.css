@@ -1,0 +1,7 @@
+/* カードフリップアニメーション用 */
+.backface-hidden {
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+}
+
+/* 今後のカスタムスタイルをここに追加します */
